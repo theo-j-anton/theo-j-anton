@@ -1,8 +1,8 @@
-Hi, I’m Theo Anton. I'm a PhD student in Cosmology at QMUL.
+Hi, I’m Theo Anton. 
 
-I’m interested in modified gravity, testing gravity in cosmology, cosmic inhomogeneity, and alternatives to LCDM. 
+I’m a PhD-trained physicist with an interest in data science.
 
-My email address is theoanton123@gmail.com, and you can also reach me on Twitter at @TheoJAnton. 
+My email address is theoanton123@gmail.com
 
 <!---
 theo-j-anton/theo-j-anton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
